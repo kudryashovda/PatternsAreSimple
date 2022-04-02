@@ -1,0 +1,4 @@
+This is a simple realization of pattern "Observer"
+
+It helps to add new observers like monitors without modifying "main" class like here - Controller
+To add a new display you just register it. One call inside Controller updates info on all monitors 
